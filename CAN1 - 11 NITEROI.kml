@@ -8,8 +8,8 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ff8f593d</color>
-			<width>3</width>
+			<color>red</color>
+			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00000000</color>
