@@ -132,6 +132,8 @@
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
+			<width>1</width>
+			
 			<color>ff72d684</color>
 		</LineStyle>
 		<PolyStyle>
