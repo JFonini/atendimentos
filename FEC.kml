@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FEC.kml</name>
+	<Style id="LineStyle0180">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff77d99b</color>
+			<width>1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle0181">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffaeba79</color>
+			<width>1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>FEC</name>
+		<open>1</open>
+		<Placemark id="ID_00181">
+			<name>FEC - 2 BAIRRO XANGRILA</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FEC - 2 BAIRRO XANGRILA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SGI</td>
+
+<td>FEC - 2 BAIRRO XANGRILA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CodGIS</td>
+
+<td>AL00920002</td>
+
+</tr>
+
+<tr>
+
+<td>SE</td>
+
+<td>SE FECOTRIGO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Superinten</td>
+
+<td>Central</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle0181</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-52.84632500000001,-30.052913,0 -52.846328,-30.052915,0 -52.84646699999999,-30.052865,0 -52.846477,-30.05286200000001,0 -52.846512,-30.05285,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.846451,-30.052721,0 -52.846458,-30.052727,0 -52.846509,-30.052843,0 -52.846512,-30.05285,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.85051899999999,-30.051519,0 -52.850503,-30.051505,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.846512,-30.05285,0 -52.846832,-30.052743,0 -52.846842,-30.05274,0 -52.847438,-30.052515,0 -52.848416,-30.05211900000001,0 -52.849342,-30.05183,0 -52.84997000000001,-30.051686,0 -52.850503,-30.051505,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.858287,-30.048066,0 -52.858296,-30.048165,0 -52.858316,-30.04834,0 -52.85808999999999,-30.048431,0 -52.857722,-30.048485,0 -52.857547,-30.048405,0 -52.85753799999999,-30.048408,0 -52.856897,-30.048643,0 -52.85586799999999,-30.048901,0 -52.855265,-30.048893,0 -52.85467300000001,-30.048916,0 -52.854024,-30.048936,0 -52.853396,-30.049556,0 -52.85289,-30.050145,0 -52.852387,-30.050652,0 -52.851944,-30.051075,0 -52.851333,-30.051302,0 -52.850503,-30.051505,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.858287,-30.048066,0 -52.85820100000001,-30.048069,0 -52.85818,-30.048069,0 -52.858157,-30.04807,0 -52.858108,-30.048071,0 -52.85791200000001,-30.048118,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.862825,-30.044283,0 -52.86272199999999,-30.044917,0 -52.862611,-30.045556,0 -52.86191699999999,-30.045472,0 -52.86122199999999,-30.045389,0 -52.85947199999999,-30.045528,0 -52.85858300000001,-30.045528,0 -52.858028,-30.0455,0 -52.858028,-30.045889,0 -52.858028,-30.046583,0 -52.858083,-30.047417,0 -52.858138,-30.047961,0 -52.858139,-30.047972,0 -52.858278,-30.047961,0 -52.858287,-30.048066,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.866092,-30.04364,0 -52.865564,-30.043562,0 -52.865079,-30.043471,0 -52.86455,-30.043401,0 -52.864013,-30.043323,0 -52.863516,-30.04323,0 -52.863048,-30.043148,0 -52.862988,-30.043516,0 -52.862881,-30.043933,0 -52.862825,-30.044283,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.861201,-30.044099,0 -52.861216,-30.044086,0 -52.86171400000001,-30.04415,0 -52.862292,-30.044231,0 -52.862825,-30.044283,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.867788,-30.043128,0 -52.867674,-30.043507,0 -52.867617,-30.04385,0 -52.86761500000001,-30.043864,0 -52.867605,-30.043862,0 -52.86710899999999,-30.043781,0 -52.8666,-30.043715,0 -52.866092,-30.04364,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.866088,-30.043651,0 -52.866092,-30.04364,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.86777200000001,-30.043114,0 -52.867788,-30.043128,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.86789199999999,-30.042435,0 -52.867824,-30.042775,0 -52.867788,-30.043128,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.87054299999999,-30.041766,0 -52.870476,-30.042097,0 -52.870414,-30.04245600000001,0 -52.87032900000001,-30.042808,0 -52.869819,-30.042729,0 -52.869418,-30.042666,0 -52.869012,-30.042609,0 -52.86860100000001,-30.042541,0 -52.868191,-30.042482,0 -52.86789199999999,-30.042435,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.862989,-30.041654,0 -52.862989,-30.041671,0 -52.863708,-30.041784,0 -52.864369,-30.041887,0 -52.864973,-30.041982,0 -52.865582,-30.042077,0 -52.865814,-30.042113,0 -52.866246,-30.042181,0 -52.86663400000001,-30.042242,0 -52.867043,-30.042306,0 -52.86745000000001,-30.04237,0 -52.867817,-30.042427,0 -52.86783200000001,-30.042429,0 -52.867833,-30.042429,0 -52.86789199999999,-30.042435,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.86789300000001,-30.042398,0 -52.86789300000001,-30.042399,0 -52.86789199999999,-30.042435,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.869789,-30.041481,0 -52.870209,-30.04155,0 -52.870539,-30.041763,0 -52.87054299999999,-30.041766,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.871544,-30.040664,0 -52.871268,-30.040876,0 -52.870958,-30.041104,0 -52.870624,-30.041407,0 -52.87054299999999,-30.041766,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.869798,-30.041464,0 -52.869789,-30.041481,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.86735400000001,-30.041061,0 -52.86734799999999,-30.041074,0 -52.867726,-30.041155,0 -52.868158,-30.041186,0 -52.868571,-30.041311,0 -52.86902099999999,-30.041348,0 -52.869374,-30.041403,0 -52.869375,-30.041403,0 -52.869789,-30.041481,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.871529,-30.040651,0 -52.871544,-30.040664,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-52.871544,-30.040664,0 -52.871879,-30.04043,0 -52.87213899999999,-30.04022,0 -52.872387,-30.040017,0 -52.87239999999999,-30.040007,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00180">
+			<name>FEC - 1 GRANOL</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>FEC - 1 GRANOL</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SGI</td>
+
+<td>FEC - 1 GRANOL</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CodGIS</td>
+
+<td>AL00920001</td>
+
+</tr>
+
+<tr>
+
+<td>SE</td>
+
+<td>SE FECOTRIGO</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Superinten</td>
+
+<td>Central</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle0180</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-52.857557,-30.043705,0 -52.857557,-30.043724,0 -52.85772000000001,-30.043947,0 -52.857726,-30.043955,0 -52.857724,-30.044389,0 -52.857739,-30.044904,0 -52.85775499999999,-30.045424,0 -52.857765,-30.045918,0 -52.85776599999999,-30.046558,0 -52.85775,-30.04722,0 -52.857735,-30.047932,0 -52.857723,-30.04846,0 -52.857722,-30.048472,0 -52.858083,-30.048417,0 -52.858306,-30.048333,0 -52.85828600000001,-30.048168,0 -52.858215,-30.048166,0 -52.858194,-30.048166,0 -52.858167,-30.048167,0 -52.858109,-30.048166,0 -52.85791200000001,-30.048122,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ALE5.kml</name>
+	<Style id="LineStyle0444">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff785da3</color>
+			<width>1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle0447">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff8568a8</color>
+			<width>1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle0446">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffba957b</color>
+			<width>1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle0445">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6096db</color>
+			<width>1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>ALE5</name>
+		<open>1</open>
+		<Placemark id="ID_00446">
+			<name>ALE - 53 IBIROCAI</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ALE - 53 IBIROCAI</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SGI</td>
+
+<td>ALE - 53 IBIROCAI</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CodGIS</td>
+
+<td>AL04320053</td>
+
+</tr>
+
+<tr>
+
+<td>SE</td>
+
+<td>SE ALEGRETE 5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Superinten</td>
+
+<td>Fronteira Sul</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle0446</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-56.381799,-29.492665,0 -56.381303,-29.49262,0 -56.380798,-29.49257400000001,0 -56.38050700000001,-29.492556,0 -56.3802,-29.492537,0 -56.37921000000001,-29.492475,0 -56.37869400000001,-29.492442,0 -56.378175,-29.492512,0 -56.377657,-29.492763,0 -56.377046,-29.493229,0 -56.376434,-29.493714,0 -56.375823,-29.494189,0 -56.375201,-29.494664,0 -56.374579,-29.495149,0 -56.373967,-29.495624,0 -56.37335600000001,-29.4961,0 -56.372744,-29.496575,0 -56.372132,-29.497051,0 -56.37153099999999,-29.497517,0 -56.370899,-29.497983,0 -56.370277,-29.498468,0 -56.369666,-29.498934,0 -56.369044,-29.499419,0 -56.368442,-29.499903,0 -56.36781,-29.500387,0 -56.36718799999999,-29.500863,0 -56.366576,-29.501347,0 -56.365954,-29.501832,0 -56.36534300000001,-29.502298,0 -56.36472,-29.502791,0 -56.36410900000001,-29.503258,0 -56.363497,-29.503751,0 -56.362875,-29.504227,0 -56.362253,-29.504702,0 -56.361631,-29.505177,0 -56.361019,-29.505662,0 -56.360407,-29.506146,0 -56.359785,-29.506621,0 -56.359184,-29.507088,0 -56.35855200000001,-29.507563,0 -56.35794,-29.508038,0 -56.357339,-29.508523,0 -56.35672699999999,-29.509007,0 -56.356115,-29.509483,0 -56.355493,-29.50995800000001,0 -56.354871,-29.510433,0 -56.354339,-29.51083300000001,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-56.387874,-29.492399,0 -56.387368,-29.492598,0 -56.386519,-29.492954,0 -56.385582,-29.492898,0 -56.38461899999999,-29.492832,0 -56.383802,-29.492777,0 -56.383274,-29.492744,0 -56.38282000000001,-29.492717,0 -56.382311,-29.492691,0 -56.381799,-29.492665,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-56.38181400000001,-29.492651,0 -56.381799,-29.492665,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-56.387865,-29.492382,0 -56.387874,-29.492399,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-56.388302,-29.49223,0 -56.387874,-29.492399,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-56.38830300000001,-29.49223900000001,0 -56.388302,-29.49223,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-56.39101099999999,-29.491161,0 -56.39021200000001,-29.491447,0 -56.389665,-29.491687,0 -56.389263,-29.491864,0 -56.38878299999999,-29.492047,0 -56.388302,-29.49223,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-56.391019,-29.491167,0 -56.39101099999999,-29.491161,0 
+					</coordinates>
+				</LineString>
+				<LineString>
+					<coordinates>
+						-56.430958,-29.462036,0 -56.431251,-29.46203300000001,0 -56.431263,-29.462313,0 -56.431276,-29.462707,0 -56.431289,-29.463147,0 -56.43129,-29.463156,0 -56.431297,-29.463502,0 -56.431147,-29.463766,0 -56.430753,-29.464189,0 -56.430358,-29.464602,0 -56.429829,-29.465169,0 -56.42931,-29.465726,0 -56.429056,-29.466028,0 -56.428854,-29.466157,0 -56.428265,-29.466398,0 -56.427562,-29.466756,0 -56.42685900000001,-29.467033,0 -56.426363,-29.467202,0 -56.426187,-29.467283,0 -56.42611399999999,-29.467463,0 -56.42580099999999,-29.468139,0 -56.425228,-29.468894,0 -56.425086,-29.469109,0 -56.42485600000001,-29.469613,0 -56.424563,-29.470089,0 -56.424045,-29.47053800000001,0 -56.42339200000001,-29.470996,0 -56.42275,-29.471462,0 -56.422265,-29.471809,0 -56.421612,-29.47226600000001,0 -56.42097,-29.472724,0 -56.420339,-29.47319,0 -56.419873,-29.47356,0 -56.419262,-29.47405300000001,0 -56.418651,-29.474547,0 -56.41806,-29.475041,0 -56.417472,-29.475528,0 -56.416858,-29.476019,0 -56.41627700000001,-29.476513,0 -56.415858,-29.476868,0 -56.415488,-29.477169,0 -56.41516200000001,-29.477418,0 -56.4148,-29.477695,0 -56.41437100000001,-29.478084,0 -56.413935,-29.47847,0 -56.41336500000001,-29.479009,0 -56.412805,-29.47953,0 -56.412221,-29.480061,0 -56.411685,-29.480581,0 -56.411125,-29.481111,0 -56.41054400000001,-29.48165,0 -56.41018099999999,-29.481946,0 -56.409614,-29.482392,0 -56.40895900000001,-29.482835,0 -56.408389,-29.483238,0 -56.407836,-29.483674,0 -56.407203,-29.484098,0 -56.406408,-29.484615,0 -56.405707,-29.485084,0 -56.404692,-29.485509,0 -56.403722,-29.485912,0 -56.402707,-29.48633,0 -56.401702,-29.48679,0 -56.4007,-29.487166,0 -56.39967299999999,-29.487584,0 -56.398684,-29.487997,0 -56.39758000000001,-29.488461,0 -56.396483,-29.488906,0 -56.395391,-29.489356,0 -56.394266,-29.489807,0 -56.393189,-29.490258,0 -56.393189,-29.490258,0 -56.3921,-29.490705,0 -56.39159400000001,-29.490917,0 -56.39101099999999,-29.491161,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00444">
+			<name>ALE5 - 51 IRMAOS JARDIM</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ALE5 - 51 IRMAOS JARDIM</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SGI</td>
+
+<td>ALE5 - 51 IRMAOS JARDIM</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CodGIS</td>
+
+<td>AL04320051</td>
+
+</tr>
+
+<tr>
+
+<td>SE</td>
+
+<td>SE ALEGRETE 5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Superinten</td>
+
+<td>Fronteira Sul</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle0444</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-56.460282,-29.460083,0 -56.460095,-29.459826,0 -56.459474,-29.460076,0 -56.45872000000001,-29.460361,0 -56.45797600000001,-29.46064700000001,0 -56.45724199999999,-29.460933,0 -56.456488,-29.461228,0 -56.455754,-29.461532,0 -56.455059,-29.461813,0 -56.454379,-29.462113,0 -56.45371800000001,-29.462381,0 -56.452994,-29.462712,0 -56.452373,-29.463187,0 -56.451803,-29.463618,0 -56.451255,-29.46404,0 -56.450644,-29.464507,0 -56.45002199999999,-29.464974,0 -56.449857,-29.465081,0 -56.449682,-29.464999,0 -56.449105,-29.464771,0 -56.44855,-29.464534,0 -56.447912,-29.464243,0 -56.447161,-29.463951,0 -56.44697600000001,-29.46386,0 -56.44678,-29.46386800000001,0 -56.446161,-29.463884,0 -56.445542,-29.463899,0 -56.44491300000001,-29.463924,0 -56.444087,-29.463947,0 -56.443262,-29.46398,0 -56.442447,-29.464004,0 -56.441612,-29.464027,0 -56.440807,-29.46406,0 -56.440004,-29.464075,0 -56.439199,-29.464107,0 -56.43836400000001,-29.464131,0 -56.437549,-29.46415500000001,0 -56.436724,-29.464178,0 -56.43591900000001,-29.464202,0 -56.435094,-29.464225,0 -56.434591,-29.46388,0 -56.434098,-29.463553,0 -56.43345,-29.46309,0 -56.432807,-29.462591,0 -56.432165,-29.462119,0 -56.43176,-29.462129,0 -56.430957,-29.462187,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00445">
+			<name>ALE5 - 52 SANTA INES</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ALE5 - 52 SANTA INES</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SGI</td>
+
+<td>ALE5 - 52 SANTA INES</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CodGIS</td>
+
+<td>AL04320052</td>
+
+</tr>
+
+<tr>
+
+<td>SE</td>
+
+<td>SE ALEGRETE 5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Superinten</td>
+
+<td>Fronteira Sul</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle0445</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-56.431215,-29.4621,0 -56.430957,-29.462111,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00447">
+			<name>ALE5 - 54 BALSA DO SILVESTRE</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>ALE5 - 54 BALSA DO SILVESTRE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SGI</td>
+
+<td>ALE5 - 54 BALSA DO SILVESTRE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CodGIS</td>
+
+<td>AL04320054</td>
+
+</tr>
+
+<tr>
+
+<td>SE</td>
+
+<td>SE ALEGRETE 5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Superinten</td>
+
+<td>Fronteira Sul</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle0447</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-56.431211,-29.461968,0 -56.430959,-29.461968,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

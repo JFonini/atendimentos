@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GPR.kml</name>
+	<Style id="LineStyle0206">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff8f6c59</color>
+			<width>1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>GPR</name>
+		<open>1</open>
+		<Placemark id="ID_00206">
+			<name>GPR - 207 GUAPORE</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>GPR - 207 GUAPORE</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>SGI</td>
+
+<td>GPR - 207 GUAPORE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>CodGIS</td>
+
+<td>AL01160207</td>
+
+</tr>
+
+<tr>
+
+<td>SE</td>
+
+<td>SE GUAPORE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Superinten</td>
+
+<td>Vales</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle0206</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-52.009735,-28.973327,0 -52.003131,-29.019513,0 -52.000153,-29.040383,0 -52.000151,-29.040395,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
