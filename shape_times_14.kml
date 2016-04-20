@@ -2,50 +2,74 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>times_14.kml</name>
-	<Style id="PolyStyle002">
+	<open>1</open>
+	<Style id="PolyStyle0024">
 		<LabelStyle>
 			<color>00000000</color>
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ff004c73</color>
-			<width>3</width>
+			<color>ff000000</color>
+			<width>1.1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00d8e9ec</color>
 		</PolyStyle>
 	</Style>
-	<StyleMap id="PolyStyle000">
+	<Style id="PolyStyle0020">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00d8e9ec</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle0025">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00d8e9ec</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle0021">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#PolyStyle001</styleUrl>
+			<styleUrl>#PolyStyle0023</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#PolyStyle00</styleUrl>
+			<styleUrl>#PolyStyle0020</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Style id="PolyStyle00">
+	<StyleMap id="PolyStyle0022">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle0024</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle0025</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle0023">
 		<LabelStyle>
 			<color>00000000</color>
 			<scale>0</scale>
 		</LabelStyle>
 		<LineStyle>
-			<color>ff004c73</color>
-			<width>3</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>00d8e9ec</color>
-		</PolyStyle>
-	</Style>
-	<Style id="PolyStyle001">
-		<LabelStyle>
-			<color>00000000</color>
-			<scale>0</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>ff004c73</color>
-			<width>3</width>
+			<color>ff000000</color>
+			<width>1.1</width>
 		</LineStyle>
 		<PolyStyle>
 			<color>00d8e9ec</color>
@@ -99,7 +123,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -156,7 +180,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle000</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -213,7 +237,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -270,7 +294,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0021</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -327,7 +351,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -384,7 +408,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -450,7 +474,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -514,7 +538,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -571,7 +595,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -628,7 +652,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -685,7 +709,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -742,7 +766,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -799,7 +823,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
@@ -856,7 +880,7 @@
 </body>
 
 </html>]]></description>
-			<styleUrl>#PolyStyle002</styleUrl>
+			<styleUrl>#PolyStyle0022</styleUrl>
 			<MultiGeometry>
 				<Polygon>
 					<outerBoundaryIs>
