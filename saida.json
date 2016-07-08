@@ -1,4 +1,4 @@
-{"equipe":[ 
+{"equipe":{
             "id":34,
             "codEquipe":1901,
             "nomEquipe":"SAP-AC 1901",
@@ -6,5 +6,5 @@
             "longitude":-51.00817,
             "qtdOrdens":0,
             "tempoAcumuladoRota":6
-         ]
+            }
 }
